@@ -9,7 +9,7 @@ HABET Mission 164 is assigned to support the flights for the 2022 Academic High 
 Launched September 29th at approximately 0915 from Howe Hall on the campus of Iowa State University
 
 ### Spacecraft
-The HABET team only provided launch services and used their Backup Emergency Recovery Transmitter (BERT). Other spacecrafts were provided by the University of Minnesota and St. Catherine's University. 
+The HABET team only provided launch services and used their Backup Emergency Recovery Transmitter (BERT). Other spacecraft were provided by the University of Minnesota and St. Catherine's University. 
 
 ### Payloads
 Coming soon
@@ -35,7 +35,7 @@ Below is the temperature data recorded. This was recorded with the onboard tempe
   title="BERT Humidity Plot"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
 
-Below is the Pressure Sensor data recorded. This was in a case that was somewhat sealed.
+Below is the Pressure Sensor data recorded. This was in a partially sealed case.
   <img
   src="Plots/bert_pressure_plot.png"
   alt="BERT Pressure"
